@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ELYMainTabBarController.h
 //  ELYCamping
 //
 //  Created by LiuZhiqi on 15-1-8.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ELYMainTabBarController : UITabBarController
 
 @end
-
